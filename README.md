@@ -1,4 +1,4 @@
-# 📚 Quiz Generator by Ishika Raj
+# 📚 Quiz Generator:
 
 A simple and interactive **Java-based command-line quiz application** that lets users create quizzes, add multiple-choice questions, take quizzes, and manage them efficiently through a user-friendly interface.
 
@@ -87,3 +87,7 @@ It provides a **menu-driven interface**, making it easy for users to interact wi
    java QuizGenerator
 
    
+## 📸 Screenshots
+
+![Quiz Screenshot](images/quiz_screenshot1.png)
+![Quiz Screenshot](images/quiz_screenshot2.png)
