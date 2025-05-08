@@ -90,4 +90,4 @@ It provides a **menu-driven interface**, making it easy for users to interact wi
 ## 📸 Screenshots
 
 ![Quiz Screenshot](https://github.com/ishika1501/Techplement/blob/main/week1-tasks/Images/quiz_screenshot1.png)
-![Quiz Screenshot](ihttps://github.com/ishika1501/Techplement/blob/main/week1-tasks/Images/quiz_screenshot2.png)
+![Quiz Screenshot](https://github.com/ishika1501/Techplement/blob/main/week1-tasks/Images/quiz_screenshot2.png)
